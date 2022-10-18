@@ -1,5 +1,5 @@
 import "./ToDoItem.css";
-import Card from "./Card";
+import Card from "./UI/Card";
 import ToDoDate from "./ToDoDate";
 
 function ToDoItem(props) {
